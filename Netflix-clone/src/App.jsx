@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import Home from './Pages/Home/Home'
 import Header from './components/Header/Header'
+import Banner from "./components/Banner/Banner";
 import Footer from './components/Footer/Footer'
-import Banner from './components/Banner/Banner'
+import RowList from './components/Rows/RowList/RowList';
 
 const App =() => {
 
@@ -10,6 +10,7 @@ const App =() => {
     <>
       <Header />
       <Banner />
+      <RowList />
       <Footer />
     </>
   )
