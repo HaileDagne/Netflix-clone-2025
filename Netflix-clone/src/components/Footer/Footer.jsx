@@ -62,7 +62,7 @@ function Footer() {
             <p>Service Code</p>
           </div>
 
-          <div className="copy-right"> &copy: 1997 - 2025 Netflix, Inc</div>
+          <div className="copy-right"> &copy; 1997 - 2025 Netflix, Inc</div>
         </div>
       </div>
     </>
